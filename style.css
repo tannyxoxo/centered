@@ -6,3 +6,23 @@ img {
     margin-left: 10%;
     margin-right: 10%;
 }
+
+.button {
+    background-color: rgb(61, 121, 199);
+    box-shadow: 0 5px 0 rgb(48, 22, 167);
+    color: white;
+    padding: .2em .4em;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  
+.button:hover {
+    background-color: #4b539c;
+  }
+  
+.button:active {
+    box-shadow: none;
+    top: 5px;
+  }
+  

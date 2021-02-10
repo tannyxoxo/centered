@@ -31,7 +31,7 @@ body {
 		content: ""; 
 		width: 0px; 
 		height: 10px; 
-		background: black; 
+		background: rgb(5, 105, 89); 
 		position: absolute; 
 		top: 100%; 
 		left: 0; 
