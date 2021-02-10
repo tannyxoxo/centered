@@ -2,3 +2,7 @@ img {
     height: auto;
     width: 100%;
 }
+.spacing {
+    margin-left: 10%;
+    margin-right: 10%;
+}
