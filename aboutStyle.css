@@ -1,3 +1,7 @@
+img#top {
+    height: auto;
+    width: 100%;
+}
 img#right {
     float: right;
     width: 40%;
