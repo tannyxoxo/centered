@@ -45,12 +45,8 @@ body {
         height: 2px;
 	} 
 
-.navBar li a.active { 
-		content: ""; 
-		width: 0px; 
-		height: 10px; 
-		background: rgb(5, 105, 89); 
-		position: absolute; 
-		top: 100%; 
-		left: 0; 
+.navBar li a.active::before { 
+		width: 99%; 
+		height: 2px;
+		/*test*/
 	} 
