@@ -1,0 +1,14 @@
+img {
+    float: left;
+    margin-right: 10%;
+    margin-left: 10%;
+    width: 40%;
+    height:auto;
+}
+.list {
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.list ol li {
+    padding: 10px;
+}
