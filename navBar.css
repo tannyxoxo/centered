@@ -20,7 +20,7 @@ body {
 		list-style: none; 
 
 	} 
-.navBar:nth-child(1), .navBar:nth-child(2) {
+.navBar li:nth-child(1), .navBar li:nth-child(2) {
     padding: 0 50px 10px 0;
 }
 
