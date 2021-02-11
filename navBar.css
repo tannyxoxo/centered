@@ -8,12 +8,12 @@ body {
 		padding: 10px 0px 0px 0; 
 		display: flex; 
 		background: #0e8ce7;
-		margin: 0px 0px 0px 0px;
+		margin: -4px 0px 0px 0px;
 	} 
 
 .navBar li { 
 		list-style: none; 
-		padding: 0 20px 20px 0; 
+		padding: 0 20px 10px 0; 
 
 	} 
 
