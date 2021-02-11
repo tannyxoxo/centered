@@ -10,7 +10,7 @@ body {
 		padding: 10px 0px 0px 0; 
 		display: flex; 
 		background: #0e8ce7;
-		margin: -4px 0px 10px 0px;
+		/*margin: -4px 0px 10px 0px;*/
 		justify-content: center;
 		border-top: 2px black solid;
 		position: sticky;
@@ -55,3 +55,6 @@ body {
 		height: 3px;
 		/*test*/
 	} 
+nav, header {
+	margin: 0;
+}
