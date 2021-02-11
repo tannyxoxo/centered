@@ -49,7 +49,7 @@ body {
         height: 2px;
 	} 
 
-.navBar li a.active::before:not(:hover) { 
+.navBar li a.active:not(:hover)::before { 
 		width: 99%; 
 		height: 4px;
 		/*test*/
