@@ -9,7 +9,7 @@ body {
 		margin: 0 10%; 
 		padding: 100px 0px 50px 0; 
 		display: flex; 
-		background: white;
+		background: #0e8ce7;
 	} 
 
 .navBar li { 
@@ -31,7 +31,7 @@ body {
 		content: ""; 
 		width: 0px; 
 		height: 10px; 
-		background: rgb(5, 105, 89); 
+		background: #e00000; 
 		position: absolute; 
 		top: 100%; 
 		left: 0; 
