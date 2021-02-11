@@ -18,9 +18,11 @@ body {
 
 .navBar li { 
 		list-style: none; 
-		padding: 0 20px 10px 0; 
 
 	} 
+.navBar:nth-child(-n + 2) {
+    padding: 0 50px 10px 0;
+}
 
 .navBar li a { 
 		text-decoration: none; 
