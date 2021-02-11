@@ -11,6 +11,7 @@ body {
 		margin: -4px 0px 0px 0px;
 		text-align: center;
 		border-top: 2px black solid;
+		position: sticky;
 	} 
 
 .navBar li { 
