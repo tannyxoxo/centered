@@ -7,14 +7,14 @@ body {
 .navBar { 
         
 		margin: 0 10%; 
-		padding: 10px 0px 50px 170px; 
+		padding: 100px 0px 50px 0; 
 		display: flex; 
 		background: white;
 	} 
 
 .navBar li { 
 		list-style: none; 
-		padding: 20px 20px; 
+		padding: 0 20px 20px 0; 
 
 	} 
 
