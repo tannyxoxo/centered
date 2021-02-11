@@ -17,7 +17,10 @@ body {
 	  	position: sticky;
 	  	top: 0;
 	} 
-
+header {
+	position: fixed;
+	top: 0;
+}
 .navBar li { 
 		list-style: none; 
 	} 
