@@ -12,8 +12,10 @@ body {
 		background: #0e8ce7;
 		margin: -5px 0px 10px 0px;
 		justify-content: center;
-		border-top: 2px black solid;
-		position: sticky;
+		border-top: 3px black solid;
+		position: -webkit-sticky;
+	  	position: sticky;
+	  	top: 0;
 	} 
 
 .navBar li { 
