@@ -3,13 +3,15 @@ body {
 		padding: 0; 
 		font-family: Arial, Helvetica, sans-serif; 
 	} 
-
+/*nav {
+	text-align: center;
+}*/
 .navBar { 
 		padding: 10px 0px 0px 0; 
 		display: flex; 
 		background: #0e8ce7;
 		margin: -4px 0px 0px 0px;
-		text-align: center;
+		justify-content: center;
 		border-top: 2px black solid;
 		position: sticky;
 	} 
