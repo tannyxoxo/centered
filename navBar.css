@@ -18,9 +18,8 @@ body {
 header {
 	position: sticky;
 	top: 0;
-	border-bottom: 3px black solid;
+	/*border-bottom: 3px black solid;*/
 	z-index: 3;
-	padding: 0;
 }
 .navBar li { 
 		list-style: none; 
