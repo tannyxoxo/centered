@@ -10,7 +10,6 @@ img {
 
 .button {
     background-color: rgb(61, 121, 199);
-    box-shadow: 0 5px 0 rgb(40, 96, 201);
     color: white;
     padding: .2em .4em;
     position: relative;
@@ -20,23 +19,19 @@ img {
   
 .episode:hover {
     background-color: #4b539c;
-    box-shadow: 5px 10px rgba(0, 0, 3, 0.6);
 
   }
   
 .episode:active {
     box-shadow: none;
     top: 5px;
-    box-shadow: 2px 5px rgba(0, 0, 2, 0.6);
   }
 
   .episode {
     position:relative;
     background-color: skyblue;
-    border-radius: 25px;
     margin: 20px;
-    padding: 20px;
-    box-shadow: 5px 10px rgba(0, 0, 0, 0.4);
+    /* padding: 20px; */
 
   }
   .button { 
