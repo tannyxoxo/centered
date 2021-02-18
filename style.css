@@ -19,7 +19,7 @@ img {
   }
   
 .episode:hover {
-    background-color: rgb(0, 102, 0);
+    background-color: #4b539c;
     box-shadow: 5px 10px rgba(0, 0, 3, 0.6);
 
   }
