@@ -1,3 +1,6 @@
+body {
+    margin-bottom: 200px;
+}
 img#top {
     height: auto;
     width: 100%;
@@ -11,4 +14,42 @@ img#right {
 }
 .info {
     margin-left: 10%;
+}
+    .alex, .benj, .ben, .savanna, .justin {
+    display: none;
+    background-color: beige;
+    width: 30%;
+    height: auto;
+    position: absolute;
+}
+    
+.alexA:hover + .alex, .alex:hover + .alex {
+    display: block;
+}
+
+.benjA:hover + .benj, .benj:hover + .benj {
+    display: block;
+}
+
+.benA:hover + .ben, .ben:hover + .ben {
+    display: block;
+}
+.savannaA:hover + .savanna, .savanna:hover + .savanna {
+    display: block;
+}
+.justina:hover + .justin, .justin:hover + .justin {
+    display: block;
+}
+
+a:link {
+    color:black;
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    color: black;
+}
+a:active {
+    color:black
 }
