@@ -15,7 +15,7 @@ img#right {
 .info {
     margin-left: 10%;
 }
-    .alex, .benj, .ben, .savanna, .justin {
+    .alex, .benj, .ben, .savanna, .justin, .mattan {
     display: none;
     background-color: beige;
     width: 30%;
@@ -40,7 +40,9 @@ img#right {
 .justina:hover + .justin, .justin:hover + .justin {
     display: block;
 }
-
+.mattan:hover + .mattan, .mattan:hover + .mattan {
+    display: block;
+}
 a:link {
     color:black;
     text-decoration: none;
