@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="../navBar.css">
+    <link rel="stylesheet" href="sources.css">
+    <link rel='icon' href='Resources/Favicon_2.0.ico' type='image/x-icon'>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Episode 8</title>
+</head>
+<body>
+    <nav>
+        <ul class="navBar">
+            <li><a href="../index.html">HOME</a></li>
+            <li><a href="../allEpisodes.html">EPISODES</a></li>
+            <li><a href="../about.html">CONTACT</a></li>
+            
+        </ul>
+        
+        
+    </nav>
+    <div class="audioLink">
+        <a href="https://podcasts.apple.com/us/podcast/centered/id1535111982?i=1000509894135">
+        <img src="sourceResources/playAudio.png" alt="click here">
+        </a>
+    </div>
+    <section class="list">
+        <ol>
+            <li>CNBC - Democrats Take First Steps To Passing COVID Relief without GOP As Biden Meets With Republicans
+                <a href="https://www.cnbc.com/2021/02/01/coronavirus-stimulus-joe-biden-to-meet-with-republican-senators-about-relief-bill.html">click here</a>
+                </li>
+            <li>New York Times - Biden Outlines 1.9 Trillion Spending Package to combat Virus And Downturn
+                <a href="https://www.nytimes.com/2021/01/14/business/economy/biden-economy.html">click here</a>
+                 </li>
+            <li>CNBC - A Breakdown Of Weather The Democrats' Stimulus Bill Is Actually A 'Bailout' Of Blue States
+                <a href="https://www.cnbc.com/2020/10/08/a-breakdown-of-whether-the-democrats-stimulus-bill-is-actually-a-bailout-of-blue-states.html">click here</a>
+                </li>
+            <li>CNBC - Ex-Obama Advisor, Who Called The Strong Recovery, Says It Won't Continue Without More Stimulus
+                <a href="https://www.cnbc.com/2020/06/17/jason-furman-economic-recovery-wont-continue-without-more-stimulus.html">click here</a>
+                </li>
+        </ol>
+    </section>
+</body>
+</html>
