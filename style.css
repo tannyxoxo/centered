@@ -9,8 +9,8 @@ img {
 }
 
 .button {
-  background-color: rgb(61, 121, 199);
-  box-shadow: 0 5px 0 rgb(40, 96, 201);
+  background-color: white;
+  box-shadow: rgb(0, 58, 182);
   color: white;
   padding: .2em .4em;
   position: relative;
@@ -19,8 +19,8 @@ img {
 }
 
 .episode:hover {
-  background-color: #4b539c;
-  box-shadow: 5px 10px rgba(0, 0, 3, 0.6);
+  background-color: rgb(225, 229, 234);
+  box-shadow: 5px 10px rgb(254, 2, 17);
 
 }
 
@@ -32,7 +32,7 @@ img {
 
 .episode {
   position:relative;
-  background-color: skyblue;
+  background-color: white;
   border-radius: 25px;
   margin: 20px;
   padding: 20px;
